@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center|top">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SPINNER-PLANETAS DINÁMICO-REAL"
+        android:textSize="20sp"
+        android:textColor="@color/teal_700"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="30dp"/>
+
+    <EditText
+        android:id="@+id/etTexto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Texto"
+        android:layout_marginTop="40dp"/>
+    <Button
+        android:id="@+id/btnAñadir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Añadir"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="40dp"/>
+    <!-- Declaramos el Spinner PERO los datos se capturarán de forma "dinámica" -->
+    <ListView
+        android:id="@+id/lvDinamica"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/purple_500"
+        android:dividerHeight="5dp"/>
+</LinearLayout>

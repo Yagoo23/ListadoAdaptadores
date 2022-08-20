@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LISTADOS Y ADAPTADORES"
+            android:layout_marginBottom="20dp"
+            android:textSize="20sp"
+            android:textColor="@color/teal_700"/>
+
+        <Button
+            android:id="@+id/btnSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Spinner básico"
+            android:onClick="onClickBtnes"/>
+
+        <Button
+            android:id="@+id/btnSpinnerDatosJava"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Spinner Datos Codigo"
+            android:onClick="onClickBtnes"/>
+        <Button
+            android:id="@+id/btnSpinnerFromResources"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Spinner Recurso + Adapter"
+            android:onClick="onClickBtnes"/>
+        <Button
+            android:id="@+id/btnSpinnerDinamicoSim"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Spinner Dinamico+Simulado"
+            android:onClick="onClickBtnes"/>
+        <Button
+            android:id="@+id/btnSpinnerDinamicoReal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Spinner Dinamico+Real"
+            android:onClick="onClickBtnes"/>
+        <Button
+            android:id="@+id/btnListView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="List View"
+            android:onClick="onClickBtnes"/>
+        <Button
+            android:id="@+id/btnListViewImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="List View con Imagen única"
+            android:onClick="onClickBtnes"/>
+        <Button
+            android:id="@+id/btnListViewDifImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="List View con Imagen diferente"
+            android:onClick="onClickBtnes"/>
+        <Button
+            android:id="@+id/btnListViewTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="List View con botón"
+            android:onClick="onClickBtnes"/>
+        <Button
+            android:id="@+id/btnListViewDinamica"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="List View Dinámica"
+            android:onClick="onClickBtnes"/>
+        <Button
+            android:id="@+id/btnListViewImgDistinta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="List View Imagen distinta"
+            android:onClick="onClickBtnes"/>
+
+    </LinearLayout>
+
+
+
+</ScrollView>

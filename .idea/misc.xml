@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ciclo/2DAM/SegundaEvaluacion/PMDM/ListadosAdaptadores/app/src/main/res/layout/activity_list_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ciclo/2DAM/SegundaEvaluacion/PMDM/ListadosAdaptadores/app/src/main/res/layout/activity_list_view_imagen_diferente.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ciclo/2DAM/SegundaEvaluacion/PMDM/ListadosAdaptadores/app/src/main/res/layout/activity_list_view_optimizada.xml" value="0.13020833333333334" />
+        <entry key="..\:/Ciclo/2DAM/SegundaEvaluacion/PMDM/ListadosAdaptadores/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ciclo/2DAM/SegundaEvaluacion/PMDM/ListadosAdaptadores/app/src/main/res/layout/fila_tv.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ciclo/2DAM/SegundaEvaluacion/PMDM/ListadosAdaptadores/app/src/main/res/menu/menu_contextual.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/drawable/ic_launcher.xml" value="0.3828125" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_list_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_list_view_dinamica.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_list_view_imagen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_list_view_imagen_diferente.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_list_view_personalizada2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_list_view_personalizada_boton.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_list_view_personalizada_tv.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_spinner.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_spinner_datos_java.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_spinner_dinamico_real.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_spinner_dinamico_simulado.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/activity_spinner_from_resource.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/fila_boton.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/fila_imagen_diferente.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/fila_imagen_unica.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/fila_simple.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/layout/fila_tv.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/a20yagocg/AndroidStudioProjects/ListadosAdaptadores/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <!-- anulamos scr porque las imágenes son diferentes -->
+    <ImageView
+        android:id="@+id/imgPlaneta"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_margin="6dp">
+    </ImageView>
+    <TextView
+        android:id="@+id/tvPlaneta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp">
+    </TextView>
+</LinearLayout>
